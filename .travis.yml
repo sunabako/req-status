@@ -5,4 +5,5 @@ python:
 install:
   - pip install requests
 # the file to run
-script: true
+script:
+  - "url-status.py"
