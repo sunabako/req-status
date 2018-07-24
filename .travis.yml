@@ -5,4 +5,4 @@ python:
 install:
   - pip install requests
 # the file to run
-script:
+script: true
