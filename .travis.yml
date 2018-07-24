@@ -4,3 +4,5 @@ python:
 # command to install dependencies
 install:
   - pip install requests
+# the file to run
+script:
