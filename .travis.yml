@@ -6,4 +6,4 @@ install:
   - pip install requests
 # the file to run
 script:
-  - "url-status.py"
+  - url-status.py
